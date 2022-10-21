@@ -1,19 +1,16 @@
 ### Hi there 👋
 
-My name is Hossein Badrnezhad
+My name is Alireza Khosohbat
 ===============================
 
-Developer & Teacher
+ANDROID & WEB DEVELOPER
 -----------------------------
 
-*   🖥️  See my portfolio at [badrnezhad.com](https://badrnezhad.com)
-*   🚀  I'm currently working on [Holosen](https://holosen.net)
+*    Hello everyone 👋 , I'm Alireza from Iran
+*   🖥️  I'm SoftWare Engineering Student 
 *   🤝  I'm open to collaborating on interesting projects as a web and android developer
 
-<a href="https://www.twitter.com/badrnezhad" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/badrnezhad?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a><a href="https://www.github.com/badrnezhad" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/badrnezhad?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
                   
 ### Skills
 <p align="left">
