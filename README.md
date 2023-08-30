@@ -3,10 +3,10 @@
 My name is Alireza Khosohbat
 ===============================
 
-ANDROID & WEB DEVELOPER
+Backend Developer 
 -----------------------------
 
-*    Hello everyone 👋 , I'm Alireza from Iran
+*    Hello everyone 👋 , I'm Alireza from Iran (Mashhad)
 *   🖥️  I'm SoftWare Engineering Student 
 *   🤝  I'm open to collaborating on interesting projects as a web and android developer
 
@@ -16,6 +16,8 @@ ANDROID & WEB DEVELOPER
                 
 ### Skills
 <p align="left">
+  <a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="60" height="60" alt="GO" /></a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://www.php.net/images/logos/new-php-logo.svg" width="50" height="50" alt="PHP" /></a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
