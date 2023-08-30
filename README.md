@@ -37,5 +37,3 @@ Backend Developer
   
 ### Support Me
 <a href="https://www.buymeacoffee.com/a8k2so"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-<img src="https://tahavolsazan.ir/wp-content/uploads/2023/08/05_47_11_city_PNG22.png" style="width: 100%; height: auto;">
